@@ -7,16 +7,14 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
-
+	System.out.println("juuuuuunge");
+	System.out.println("bämm junge, boomba mann");
 	
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		System.out.println("juuuuuunge");
-		System.out.println("bämm junge, boomba mann");
-		
 		
 		System.out.println("Epic code");
 	}
