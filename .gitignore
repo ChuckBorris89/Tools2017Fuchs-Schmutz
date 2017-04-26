@@ -1,0 +1,6 @@
+#Class files
+*.class
+
+#Project files
+bin/
+gen/
