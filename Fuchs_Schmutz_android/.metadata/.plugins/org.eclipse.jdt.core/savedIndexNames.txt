@@ -1,0 +1,3 @@
+INDEX VERSION 1.129+C:\Users\Boris Fuchs\Desktop\FH.Hagenberg\Semster 2\PRO\GIT\Tools2017Fuchs-Schmutz\Fuchs_Schmutz_android\.metadata\.plugins\org.eclipse.jdt.core
+28739875.index
+4044905496.index
