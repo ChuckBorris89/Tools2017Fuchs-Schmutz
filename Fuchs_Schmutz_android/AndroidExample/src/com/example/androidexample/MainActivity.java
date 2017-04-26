@@ -33,6 +33,8 @@ public class MainActivity extends ActionBarActivity {
 		}
 		return super.onOptionsItemSelected(item);
 	}
-	public void thisIsANewMethod() { }	
+	public void thisIsANewMethod() {
+		System.out.println("Another epic code from member 1");
+	}	
 
 }
