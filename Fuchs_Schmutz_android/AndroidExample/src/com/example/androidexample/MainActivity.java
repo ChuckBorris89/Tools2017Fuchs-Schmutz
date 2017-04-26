@@ -35,7 +35,8 @@ public class MainActivity extends ActionBarActivity {
 	}
 	public void thisIsANewMethod() {
 		System.out.println("Another epic code from member 1");
-		System.out.println("test 5396");
+		System.out.println("test 1234"); //Member 1 fix#1
+		int myVariable = 1234;
 	}	
 
 }
